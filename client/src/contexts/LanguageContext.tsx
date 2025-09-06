@@ -17,37 +17,40 @@ const translations: Translations = {
     "nav.agentPortal": "Agent Portal",
     
     // Hero
-    "hero.title1": "Leads to",
-    "hero.title2": "Loyal Customers",
-    "hero.subtitle": "Prime Enroll's ACA Kick Starter delivers real, CMS-compliant ACA customers not leads. No spam, no follow-up chase. Just guaranteed, ready-to-enroll clients delivered straight to your CRM.",
-    "hero.getStarted": "Get Started Today",
-    "hero.viewDemo": "View System Demo",
-    "hero.trustedBy": "Trusted By 700+ ACA Agents & ACA Agencies",
+    "hero.title1": "Better Lead Pricing Through",
+    "hero.title2": "Multi-Vendor Networks",
+    "hero.subtitle": "Access premium lead suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance with 20-30% better pricing than going direct. Professional growth partnership with month-to-month flexibility.",
+    "hero.getStarted": "Free Consultation",
+    "hero.viewDemo": "See Our Network",
+    "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
     
     // Trust indicators
-    "trust.topAgents": "Trusted by Top Agents",
-    "trust.compliance": "100% CMS Compliance",
-    "trust.noColdCalls": "No Cold Calls",
+    "trust.topAgents": "Multi-Vendor Network",
+    "trust.compliance": "TCPA & CMS Compliant",
+    "trust.noColdCalls": "Month-to-Month Terms",
     
     // Services
-    "services.title1": "Where Smart Systems Meet",
-    "services.title2": "Seamless Enrollments",
-    "services.subtitle": "We combine ACA marketing expertise with performance-driven systems to help insurance agents scale effortlessly and stay compliant.",
+    "services.title1": "Premium Lead Sources Across",
+    "services.title2": "All Insurance Verticals",
+    "services.subtitle": "Access our curated network of high-volume suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance with professional VA support for scaling operations.",
     
-    "service.aca.title": "ACA Kick Starter",
-    "service.aca.description": "A complete DFY (Done-For-You) system that delivers exclusive ACA leads from compliant ad funnels with real-time delivery backed by a guaranteed minimum enrollment.",
+    "service.aca.title": "ACA Health Insurance",
+    "service.aca.description": "Connect with premium ACA suppliers offering competitive pricing and reliable daily transfer volumes. Access multiple backup vendors for consistent lead flow during peak seasons.",
     
-    "service.acaLive.title": "ACA Live Transfers",
-    "service.acaLive.description": "We connect you live with pre-screened ACA prospects actively seeking coverage — no cold calls, no chasing, just real conversations with ready-to-enroll clients.",
+    "service.medicare.title": "Medicare Advantage & Supplements",
+    "service.medicare.description": "Tap into our network of Medicare specialists providing aged leads and live transfers. Better pricing than direct relationships with built-in redundancy across vendors.",
     
-    "service.medicare.title": "Medicare Live Transfers",
-    "service.medicare.description": "We generate high-quality, aged-to-perfection Medicare and Life Insurance calls, tailored to your licensing state, with detailed caller insights and peak contact times.",
+    "service.finalExpense.title": "Final Expense Life Insurance",
+    "service.finalExpense.description": "Access high-converting final expense leads from multiple premium suppliers. Consistent daily volumes with transparent pricing and month-to-month flexibility.",
     
-    "service.finalExpense.title": "Final Expense Live Transfers",
-    "service.finalExpense.description": "Speak directly with interested prospects over 50 actively looking for final expense plans. Each transfer is real-time, TCPA compliant, and exclusive to you.",
+    "service.auto.title": "Auto Insurance",
+    "service.auto.description": "Connect with our auto insurance lead network offering competitive rates and reliable daily delivery. Multiple vendor options ensure consistent lead flow for your business.",
     
-    "service.va.title": "Virtual Assistance for Agents",
-    "service.va.description": "Your own trained VA team to help with quoting, CRM management, appointment setting, follow-ups, and more — so you close more with less effort.",
+    "service.life.title": "Life Insurance",
+    "service.life.description": "Premium life insurance leads from our curated supplier network. Better economics than going direct with the reliability of multiple vendor relationships.",
+    
+    "service.va.title": "Professional VA Support",
+    "service.va.description": "Scale your operations with professional virtual assistance for CRM management, appointment setting, follow-ups, and administrative tasks. Focus on closing while we handle the infrastructure.",
     
     "common.learnMore": "Learn More",
     
@@ -110,22 +113,22 @@ const translations: Translations = {
     "nav.agentPortal": "Portal de Agente",
     
     // Hero
-    "hero.title1": "Clientes Potenciales a",
-    "hero.title2": "Clientes Leales",
-    "hero.subtitle": "El ACA Kick Starter de Prime Enroll entrega clientes ACA reales y compatibles con CMS, no solo clientes potenciales. Sin spam, sin persecución de seguimiento. Solo clientes garantizados y listos para inscribirse entregados directamente a su CRM.",
-    "hero.getStarted": "Comenzar Hoy",
-    "hero.viewDemo": "Ver Demo del Sistema",
-    "hero.trustedBy": "Confiado por 700+ Agentes ACA y Agencias ACA",
+    "hero.title1": "Mejor Precio de Clientes Potenciales A Través de",
+    "hero.title2": "Redes Multi-Proveedor",
+    "hero.subtitle": "Acceso a proveedores premium de clientes potenciales en Medicare, ACA, Gastos Finales, Seguro de Auto y Seguro de Vida con precios 20-30% mejores que ir directo. Asociación profesional de crecimiento con flexibilidad mes a mes.",
+    "hero.getStarted": "Consulta Gratuita",
+    "hero.viewDemo": "Ver Nuestra Red",
+    "hero.trustedBy": "Confiado por Agentes de Seguros que Convierten 100+ Mensualmente",
     
     // Trust indicators
-    "trust.topAgents": "Confiado por Mejores Agentes",
-    "trust.compliance": "100% Cumplimiento CMS",
-    "trust.noColdCalls": "Sin Llamadas Frías",
+    "trust.topAgents": "Red Multi-Proveedor",
+    "trust.compliance": "Cumple TCPA y CMS",
+    "trust.noColdCalls": "Términos Mes a Mes",
     
     // Services
-    "services.title1": "Donde los Sistemas Inteligentes se Encuentran",
-    "services.title2": "Inscripciones Sin Problemas",
-    "services.subtitle": "Combinamos experiencia en marketing ACA con sistemas orientados al rendimiento para ayudar a los agentes de seguros a escalar sin esfuerzo y mantenerse conformes.",
+    "services.title1": "Fuentes Premium de Clientes Potenciales en",
+    "services.title2": "Todas las Verticales de Seguros",
+    "services.subtitle": "Accede a nuestra red curada de proveedores de alto volumen en Medicare, ACA, Gastos Finales, Seguro de Auto y Seguro de Vida con soporte profesional de VA para escalar operaciones.",
     
     "service.aca.title": "ACA Kick Starter",
     "service.aca.description": "Un sistema DFY (Hecho Para Usted) completo que entrega clientes potenciales ACA exclusivos de embudos de anuncios compatibles con entrega en tiempo real respaldada por una inscripción mínima garantizada.",

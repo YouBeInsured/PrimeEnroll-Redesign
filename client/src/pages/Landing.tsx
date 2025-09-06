@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { useLanguage } from "../contexts/LanguageContext";
-import { Zap, Eye, Phone, Shield, Users, Settings, Star, CheckCircle, ArrowRight, ExternalLink } from "lucide-react";
+import { Zap, Eye, Phone, Shield, Users, Settings, Star, CheckCircle, ArrowRight, ExternalLink, Car, Heart } from "lucide-react";
 import Header from "../components/Header";
 
 export default function Landing() {
@@ -128,10 +128,10 @@ export default function Landing() {
             </div>
 
             <div className="grid lg:grid-cols-3 gap-8">
-              {/* ACA Kick Starter */}
+              {/* ACA Health Insurance */}
               <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
-                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-purple-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Zap className="w-8 h-8 text-white" />
+                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-blue-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                  <Shield className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
                   {t("service.aca.title")}
@@ -145,27 +145,10 @@ export default function Landing() {
                 </button>
               </Card>
 
-              {/* ACA Live Transfers */}
+              {/* Medicare */}
               <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                 <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-blue-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Phone className="w-8 h-8 text-white" />
-                </div>
-                <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
-                  {t("service.acaLive.title")}
-                </h3>
-                <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                  {t("service.acaLive.description")}
-                </p>
-                <button className="inline-flex items-center text-primary-500 font-semibold group-hover:text-primary-600 transition-colors">
-                  {t("common.learnMore")}
-                  <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
-                </button>
-              </Card>
-
-              {/* Medicare Live Transfers */}
-              <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
-                <div className="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Shield className="w-8 h-8 text-white" />
+                  <Users className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
                   {t("service.medicare.title")}
@@ -179,10 +162,10 @@ export default function Landing() {
                 </button>
               </Card>
 
-              {/* Final Expense Live Transfers */}
+              {/* Final Expense */}
               <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                 <div className="w-16 h-16 bg-gradient-to-br from-purple-500 to-pink-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
-                  <Users className="w-8 h-8 text-white" />
+                  <Heart className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
                   {t("service.finalExpense.title")}
@@ -196,9 +179,43 @@ export default function Landing() {
                 </button>
               </Card>
 
-              {/* Virtual Assistance */}
-              <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 lg:col-span-2">
-                <div className="w-16 h-16 bg-gradient-to-br from-indigo-500 to-cyan-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+              {/* Auto Insurance */}
+              <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+                <div className="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                  <Car className="w-8 h-8 text-white" />
+                </div>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
+                  {t("service.auto.title")}
+                </h3>
+                <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
+                  {t("service.auto.description")}
+                </p>
+                <button className="inline-flex items-center text-primary-500 font-semibold group-hover:text-primary-600 transition-colors">
+                  {t("common.learnMore")}
+                  <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+                </button>
+              </Card>
+
+              {/* Life Insurance */}
+              <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+                <div className="w-16 h-16 bg-gradient-to-br from-indigo-500 to-purple-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                  <Zap className="w-8 h-8 text-white" />
+                </div>
+                <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
+                  {t("service.life.title")}
+                </h3>
+                <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
+                  {t("service.life.description")}
+                </p>
+                <button className="inline-flex items-center text-primary-500 font-semibold group-hover:text-primary-600 transition-colors">
+                  {t("common.learnMore")}
+                  <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+                </button>
+              </Card>
+
+              {/* Professional VA Support */}
+              <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
+                <div className="w-16 h-16 bg-gradient-to-br from-cyan-500 to-blue-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
                   <Settings className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
