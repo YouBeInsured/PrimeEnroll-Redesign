@@ -49,7 +49,7 @@ const translations: Translations = {
     "service.life.title": "Life",
     "service.life.description": "Premium life insurance leads from proven suppliers. Better pricing and more reliability than going direct.",
     
-    "service.va.title": "Professional VA Support",
+    "service.va.title": "VA Support Services",
     "service.va.description": "Professional VAs handle your CRM, appointments, and follow-ups. You focus on closing deals while we handle the rest.",
     
     "common.learnMore": "Learn More",
