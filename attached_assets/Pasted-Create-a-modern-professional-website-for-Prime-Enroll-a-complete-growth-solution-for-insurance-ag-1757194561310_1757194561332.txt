@@ -1,0 +1,83 @@
+Create a modern, professional website for Prime Enroll - a complete growth solution for insurance agents. We provide lead brokerage connecting agents with premium suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance, plus professional VA support and Premium CRM systems. We manage relationships with multiple high-volume lead vendors to provide agents with better pricing and quality than going direct, plus the infrastructure to manage and scale their operations.
+Target Audience:
+
+Solo insurance agents converting 100+ monthly
+Growing insurance agencies scaling their operations
+Established agents ready for 5+ daily lead transfers
+Operations seeking multi-vendor access and growth support
+
+Key Value Propositions:
+
+20-30% better pricing than direct vendor relationships
+Access to multiple premium suppliers for backup options
+Month-to-month terms with 5 daily transfer minimum
+Professional VA support services for scaling
+Multi-vendor network providing 15,000+ daily capacity
+
+Website Requirements:
+Design Style:
+
+Professional but approachable (not intimidating or overly corporate)
+Modern, clean layout with insurance industry credibility
+Mobile-responsive and fast-loading
+Color scheme: Professional blues/grays with trust-building elements
+Avoid overly technical jargon - accessible to solo agents
+
+Key Sections Needed:
+
+Hero Section - Multi-vendor network access, better pricing, growth partnership
+Services - ACA, Medicare, Final Expense transfers + VA support
+Why Choose Us - Multi-vendor advantages, pricing power, scaling support
+Growth Partnership - How agents scale from 100 monthly to 500+ daily
+Qualification - Clear about 5 daily minimum, professional consultation
+Contact/Consultation - Lead generation form for qualified prospects
+
+Messaging Tone:
+
+Growth partnership focused (not exclusive enterprise club)
+Emphasis on better economics and vendor access
+Professional but welcoming to serious agents at any level
+Clear about minimums without being intimidating
+Focus on scaling potential and support services
+
+Trust Elements:
+
+Professional infrastructure messaging
+Compliance emphasis (TCPA, CMS)
+Multi-vendor reliability and backup options
+Month-to-month flexibility
+Confidential partnership approach
+
+Call-to-Action Focus:
+
+Free consultation for qualified agents
+Emphasis on no long-term commitments
+Clear qualification criteria (5 daily minimum)
+Professional assessment of current lead costs vs. our pricing
+
+Content Hierarchy:
+
+Primary Message: Better lead pricing through multi-vendor relationships
+Secondary Message: Professional growth support and scaling infrastructure
+Tertiary Message: Accessible minimums with enterprise-level benefits
+
+Technical Requirements:
+
+Modern HTML/CSS/JavaScript
+Responsive design for mobile/desktop
+Contact forms with qualification questions
+Professional layout with clear navigation
+Fast loading and SEO-friendly structure
+
+Avoid:
+
+Overpromising specific vendor capacities or making claims about all vendors
+Intimidating minimums or exclusive positioning
+Claiming capabilities we don't have (like automated failover)
+Generic lead generation templates
+Overpromising vendor relationships or capabilities
+
+Design Inspiration:
+Think professional insurance services meets growth-focused SaaS platform. Prioritize clean, scannable content like successful lead generation websites - easy to read value propositions, clear sections, minimal marketing jargon. Clean, trustworthy, but approachable for solo agents ready to scale their operations.
+Style Reference: Simple, direct messaging like premium lead generation sites rather than complex corporate websites.
+Key Question for Design: How do we look professional enough for serious agents while remaining accessible to solo operators ready for 100+ monthly volume?
