@@ -19,7 +19,7 @@ const translations: Translations = {
     // Hero
     "hero.title1": "We Fill Your Pipeline",
     "hero.title2": "With Ready-to-Enroll Clients",
-    "hero.subtitle": "High-intent, pre-qualified live call transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious prospects who call YOU.",
+    "hero.subtitle": "High-Intent, Pre-Qualified Live Call Transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious prospects who call YOU.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
@@ -32,7 +32,7 @@ const translations: Translations = {
     // Services
     "services.title1": "Ready-to-Enroll Clients",
     "services.title2": "Across Every Vertical",
-    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to enroll. Multiple suppliers ensure consistent daily volume.",
+    "services.subtitle": "High-Intent Live Call Transfers from Pre-Qualified prospects ready to enroll. Multiple suppliers ensure consistent daily volume.",
     
     "service.aca.title": "ACA",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
@@ -69,7 +69,7 @@ const translations: Translations = {
     // Growth Partnership
     "growth.title1": "Scale",
     "growth.title2": "from 100 Monthly to 500+ Daily Transfers",
-    "growth.subtitle": "Scale systematically with high-intent transfers and dedicated support.",
+    "growth.subtitle": "Scale systematically with High-Intent transfers and dedicated support.",
     "growth.step1.title": "You're Converting 100+ Monthly",
     "growth.step1.description": "Ready for consistent daily leads with professional support.",
     "growth.step2.title": "Scale to 5-50 Daily",
