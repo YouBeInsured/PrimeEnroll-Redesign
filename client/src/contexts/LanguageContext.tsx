@@ -17,17 +17,17 @@ const translations: Translations = {
     "nav.agentPortal": "Agent Portal",
     
     // Hero
-    "hero.title1": "Better Lead Pricing Through",
-    "hero.title2": "Multi-Vendor Networks",
-    "hero.subtitle": "Access premium lead suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance with 20-30% better pricing than going direct. Professional growth partnership with month-to-month flexibility.",
+    "hero.title1": "Scale Your Insurance Business with",
+    "hero.title2": "Professional Growth Partnership",
+    "hero.subtitle": "Access premium lead suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance. Professional infrastructure and multi-vendor relationships designed to scale your operations from 100 monthly to enterprise levels.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
     
     // Trust indicators
-    "trust.topAgents": "Multi-Vendor Network",
+    "trust.topAgents": "Growth Partnership",
     "trust.compliance": "TCPA & CMS Compliant",
-    "trust.noColdCalls": "Month-to-Month Terms",
+    "trust.noColdCalls": "Professional Infrastructure",
     
     // Services
     "services.title1": "Premium Lead Sources Across",
@@ -57,14 +57,14 @@ const translations: Translations = {
     // Why Choose Us
     "about.title1": "Why Choose",
     "about.title2": "Prime Enroll",
-    "about.description1": "Access to multiple premium suppliers means better pricing, backup options, and reliable volumes. Our network relationships provide 20-30% better economics than going direct to vendors.",
-    "about.description2": "Professional infrastructure with month-to-month terms, TCPA/CMS compliance, and dedicated growth support. Confidential partnership approach designed for serious agents ready to scale.",
+    "about.description1": "Access to multiple premium suppliers means reliable growth, backup options, and consistent volumes. Our network relationships provide the infrastructure and reliability needed to scale your business systematically.",
+    "about.description2": "Professional growth partnership with month-to-month flexibility, TCPA/CMS compliance, and dedicated scaling support. Confidential approach designed for serious agents ready to grow their operations.",
     "about.clientsServed": "Agent Partners",
     "about.experience": "Years Experience", 
     "about.clarity.title": "Multi-Vendor Advantage",
     "about.clarity.description": "Never depend on a single supplier. Our network provides backup options and consistent lead flow across all verticals.",
-    "about.support.title": "Better Economics & Flexibility",
-    "about.support.description": "Month-to-month terms with 20-30% pricing advantages over direct vendor relationships. Professional growth partnership without long-term commitments.",
+    "about.support.title": "Professional Growth Infrastructure",
+    "about.support.description": "Month-to-month flexibility with dedicated scaling support and professional infrastructure. Growth partnership designed to help you reach enterprise-level volumes without long-term commitments.",
     
     // Growth Partnership
     "growth.title1": "Scale from 100 Monthly to",
@@ -85,7 +85,7 @@ const translations: Translations = {
     "qualification.requirement3": "Professional CRM System",
     "qualification.requirement4": "Proven Conversion History",
     "qualification.consultation": "Free Professional Assessment",
-    "qualification.consultationDesc": "We'll assess your current lead costs, conversion rates, and growth potential to determine if our network is the right fit for your operations.",
+    "qualification.consultationDesc": "We'll assess your current operations, conversion rates, and growth potential to determine if our network is the right fit for scaling your business.",
     
     // Features
     "features.title1": "A System That",
@@ -134,17 +134,17 @@ const translations: Translations = {
     "nav.agentPortal": "Portal de Agente",
     
     // Hero
-    "hero.title1": "Mejor Precio de Clientes Potenciales A Través de",
-    "hero.title2": "Redes Multi-Proveedor",
-    "hero.subtitle": "Acceso a proveedores premium de clientes potenciales en Medicare, ACA, Gastos Finales, Seguro de Auto y Seguro de Vida con precios 20-30% mejores que ir directo. Asociación profesional de crecimiento con flexibilidad mes a mes.",
+    "hero.title1": "Escale Su Negocio de Seguros con",
+    "hero.title2": "Asociación Profesional de Crecimiento",
+    "hero.subtitle": "Acceso a proveedores premium de clientes potenciales en Medicare, ACA, Gastos Finales, Seguro de Auto y Seguro de Vida. Infraestructura profesional y relaciones multi-proveedor diseñadas para escalar sus operaciones de 100 mensuales a niveles empresariales.",
     "hero.getStarted": "Consulta Gratuita",
     "hero.viewDemo": "Ver Nuestra Red",
     "hero.trustedBy": "Confiado por Agentes de Seguros que Convierten 100+ Mensualmente",
     
     // Trust indicators
-    "trust.topAgents": "Red Multi-Proveedor",
+    "trust.topAgents": "Asociación de Crecimiento",
     "trust.compliance": "Cumple TCPA y CMS",
-    "trust.noColdCalls": "Términos Mes a Mes",
+    "trust.noColdCalls": "Infraestructura Profesional",
     
     // Services
     "services.title1": "Fuentes Premium de Clientes Potenciales en",
@@ -174,14 +174,14 @@ const translations: Translations = {
     // About
     "about.title1": "Por Qué Elegir",
     "about.title2": "Prime Enroll",
-    "about.description1": "Acceso a múltiples proveedores premium significa mejores precios, opciones de respaldo y volúmenes confiables. Nuestras relaciones de red proporcionan 20-30% mejor economía que ir directo a los proveedores.",
-    "about.description2": "Infraestructura profesional con términos mes a mes, cumplimiento TCPA/CMS y soporte de crecimiento dedicado. Enfoque de asociación confidencial diseñado para agentes serios listos para escalar.",
+    "about.description1": "Acceso a múltiples proveedores premium significa crecimiento confiable, opciones de respaldo y volúmenes consistentes. Nuestras relaciones de red proporcionan la infraestructura y confiabilidad necesarias para escalar su negocio sistemáticamente.",
+    "about.description2": "Asociación profesional de crecimiento con flexibilidad mes a mes, cumplimiento TCPA/CMS y soporte de escalamiento dedicado. Enfoque confidencial diseñado para agentes serios listos para hacer crecer sus operaciones.",
     "about.clientsServed": "Clientes Atendidos",
     "about.experience": "Años de Experiencia",
     "about.clarity.title": "Ventaja Multi-Proveedor",
     "about.clarity.description": "Nunca dependa de un solo proveedor. Nuestra red proporciona opciones de respaldo y flujo constante de clientes potenciales en todas las verticales.",
-    "about.support.title": "Mejor Economía y Flexibilidad",
-    "about.support.description": "Términos mes a mes con ventajas de precios del 20-30% sobre las relaciones directas con proveedores. Asociación profesional de crecimiento sin compromisos a largo plazo.",
+    "about.support.title": "Infraestructura Profesional de Crecimiento",
+    "about.support.description": "Flexibilidad mes a mes con soporte de escalamiento dedicado e infraestructura profesional. Asociación de crecimiento diseñada para ayudarle a alcanzar volúmenes a nivel empresarial sin compromisos a largo plazo.",
     
     // Growth Partnership
     "growth.title1": "Escale de 100 Mensuales a",
@@ -202,7 +202,7 @@ const translations: Translations = {
     "qualification.requirement3": "Sistema CRM Profesional",
     "qualification.requirement4": "Historial de Conversión Comprobado",
     "qualification.consultation": "Evaluación Profesional Gratuita",
-    "qualification.consultationDesc": "Evaluaremos sus costos actuales de clientes potenciales, tasas de conversión y potencial de crecimiento para determinar si nuestra red es la opción correcta para sus operaciones.",
+    "qualification.consultationDesc": "Evaluaremos sus operaciones actuales, tasas de conversión y potencial de crecimiento para determinar si nuestra red es la opción correcta para escalar su negocio.",
     
     // Features
     "features.title1": "Un Sistema Que",
