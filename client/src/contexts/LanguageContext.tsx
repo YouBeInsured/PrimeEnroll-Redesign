@@ -17,9 +17,9 @@ const translations: Translations = {
     "nav.agentPortal": "Agent Portal",
     
     // Hero
-    "hero.title1": "Premium Leads for",
-    "hero.title2": "Serious Insurance Agents",
-    "hero.subtitle": "Get better leads at better prices. We connect you with top suppliers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale from 100 monthly to 500+ daily.",
+    "hero.title1": "We Fill Your Pipeline",
+    "hero.title2": "With Ready-to-Buy Customers",
+    "hero.subtitle": "High-intent, pre-qualified live call transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious buyers who call YOU.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
@@ -30,9 +30,9 @@ const translations: Translations = {
     "trust.noColdCalls": "Professional Support",
     
     // Services
-    "services.title1": "Get Leads for",
-    "services.title2": "Every Insurance Type",
-    "services.subtitle": "We work with the best suppliers. You get better prices, more options, and consistent daily delivery across all major insurance types.",
+    "services.title1": "Ready-to-Buy Customers",
+    "services.title2": "Across Every Vertical",
+    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across all insurance types.",
     
     "service.aca.title": "ACA Health Insurance",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
@@ -55,21 +55,21 @@ const translations: Translations = {
     "common.learnMore": "Learn More",
     
     // Why Choose Us
-    "about.title1": "Why Choose",
-    "about.title2": "Prime Enroll",
-    "about.description1": "Multiple suppliers mean you never run out of leads. Better pricing, backup options, and consistent daily volume.",
-    "about.description2": "Month-to-month flexibility. TCPA/CMS compliant. Dedicated support to help you scale. No long-term contracts.",
+    "about.title1": "Business Problems",
+    "about.title2": "We Solve",
+    "about.description1": "Inconsistent lead flow? Supplier reliability issues? Scaling bottlenecks? We solve the problems that keep you from growing.",
+    "about.description2": "Multiple supplier network, month-to-month flexibility, TCPA/CMS compliance, and dedicated scaling support. No long-term contracts.",
     "about.clientsServed": "Agent Partners",
     "about.experience": "Years Experience", 
-    "about.clarity.title": "Multiple Suppliers",
-    "about.clarity.description": "Never depend on one supplier. Multiple options mean consistent leads across all insurance types.",
-    "about.support.title": "No Contracts",
-    "about.support.description": "Month-to-month terms with dedicated support. Scale to enterprise volume without long-term commitments.",
+    "about.clarity.title": "Reliable Pipeline",
+    "about.clarity.description": "Never worry about your pipeline drying up. Multiple suppliers mean consistent high-intent transfers every day.",
+    "about.support.title": "Scale Fast",
+    "about.support.description": "From 100 monthly to 500+ daily transfers. We provide the infrastructure and support to scale without bottlenecks.",
     
     // Growth Partnership
     "growth.title1": "Scale from 100 Monthly to",
-    "growth.title2": "500+ Daily Leads",
-    "growth.subtitle": "Start where you are. Scale systematically. We provide the leads, support, and infrastructure to grow fast.",
+    "growth.title2": "500+ Daily Transfers",
+    "growth.subtitle": "Start where you are. Scale systematically. We provide the high-intent transfers, support, and infrastructure to grow fast.",
     "growth.step1.title": "You're Converting 100+ Monthly",
     "growth.step1.description": "Ready for consistent daily leads with professional support.",
     "growth.step2.title": "Scale to 5-50 Daily",
