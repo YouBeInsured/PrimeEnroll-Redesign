@@ -13,7 +13,7 @@
   --card-foreground: hsl(222.2, 84%, 4.9%);
   --border: hsl(214.3, 31.8%, 91.4%);
   --input: hsl(214.3, 31.8%, 91.4%);
-  --primary: hsl(207, 90%, 54%);
+  --primary: hsl(215, 28%, 52%);
   --primary-foreground: hsl(210, 40%, 98%);
   --secondary: hsl(210, 40%, 96%);
   --secondary-foreground: hsl(222.2, 84%, 4.9%);
@@ -21,14 +21,14 @@
   --accent-foreground: hsl(222.2, 84%, 4.9%);
   --destructive: hsl(0, 84.2%, 60.2%);
   --destructive-foreground: hsl(210, 40%, 98%);
-  --ring: hsl(207, 90%, 54%);
+  --ring: hsl(215, 28%, 52%);
   --radius: 0.75rem;
   
-  /* Custom Prime Enroll colors */
-  --primary-400: hsl(207, 89%, 65%);
-  --primary-500: hsl(207, 90%, 54%);
-  --primary-600: hsl(207, 90%, 48%);
-  --primary-700: hsl(207, 90%, 42%);
+  /* Custom Prime Enroll colors - Professional */
+  --primary-400: hsl(215, 25%, 65%);
+  --primary-500: hsl(215, 28%, 52%);
+  --primary-600: hsl(215, 32%, 45%);
+  --primary-700: hsl(215, 35%, 38%);
   
   --purple-400: hsl(262, 83%, 70%);
   --purple-500: hsl(262, 83%, 58%);
@@ -75,7 +75,7 @@
   --card-foreground: hsl(210, 40%, 98%);
   --border: hsl(217.2, 32.6%, 17.5%);
   --input: hsl(217.2, 32.6%, 17.5%);
-  --primary: hsl(207, 90%, 54%);
+  --primary: hsl(215, 28%, 52%);
   --primary-foreground: hsl(222.2, 84%, 4.9%);
   --secondary: hsl(217.2, 32.6%, 17.5%);
   --secondary-foreground: hsl(210, 40%, 98%);
@@ -83,7 +83,7 @@
   --accent-foreground: hsl(210, 40%, 98%);
   --destructive: hsl(0, 62.8%, 30.6%);
   --destructive-foreground: hsl(210, 40%, 98%);
-  --ring: hsl(207, 90%, 54%);
+  --ring: hsl(215, 28%, 52%);
   
   /* Dark theme specific colors */
   --primary-400: hsl(207, 89%, 65%);
