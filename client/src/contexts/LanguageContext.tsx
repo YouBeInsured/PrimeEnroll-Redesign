@@ -18,8 +18,8 @@ const translations: Translations = {
     
     // Hero
     "hero.title1": "We Fill Your Pipeline",
-    "hero.title2": "With Ready-to-Buy Customers",
-    "hero.subtitle": "High-intent, pre-qualified live call transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious buyers who call YOU.",
+    "hero.title2": "With Ready-to-Enroll Customers",
+    "hero.subtitle": "High-intent, pre-qualified live call transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious prospects who call YOU.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
@@ -30,7 +30,7 @@ const translations: Translations = {
     "trust.noColdCalls": "Professional Support",
     
     // Services
-    "services.title1": "Ready-to-Buy Customers",
+    "services.title1": "Ready-to-Enroll Customers",
     "services.title2": "Across Every Vertical",
     "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across Medicare, ACA, Final Expense, Auto, and Life Insurance.",
     
