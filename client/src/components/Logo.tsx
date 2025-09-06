@@ -12,9 +12,10 @@ export default function Logo({ className = "" }: { className?: string }) {
             />
             <defs>
               <linearGradient id="lightning-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stopColor="#06B6D4" />
-                <stop offset="50%" stopColor="#0EA5E9" />
-                <stop offset="100%" stopColor="#3B82F6" />
+                <stop offset="0%" stopColor="#F8FAFC" />
+                <stop offset="30%" stopColor="#E2E8F0" />
+                <stop offset="70%" stopColor="#94A3B8" />
+                <stop offset="100%" stopColor="#64748B" />
               </linearGradient>
             </defs>
           </svg>
