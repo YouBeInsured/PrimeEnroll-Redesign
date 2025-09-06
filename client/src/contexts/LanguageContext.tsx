@@ -37,7 +37,7 @@ const translations: Translations = {
     "service.aca.title": "ACA Health Insurance",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
     
-    "service.medicare.title": "Medicare Advantage & Supplements",
+    "service.medicare.title": "Medicare",
     "service.medicare.description": "Quality Medicare leads from specialists. Aged leads and live transfers with better pricing than direct relationships.",
     
     "service.finalExpense.title": "Final Expense Life Insurance",
