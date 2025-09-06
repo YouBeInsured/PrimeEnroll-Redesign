@@ -17,91 +17,91 @@ const translations: Translations = {
     "nav.agentPortal": "Agent Portal",
     
     // Hero
-    "hero.title1": "Scale Your Insurance Business with",
-    "hero.title2": "Professional Growth Partnership",
-    "hero.subtitle": "Access premium lead suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance. Professional infrastructure and multi-vendor relationships designed to scale your operations from 100 monthly to enterprise levels.",
+    "hero.title1": "Premium Leads for",
+    "hero.title2": "Serious Insurance Agents",
+    "hero.subtitle": "Get better leads at better prices. We connect you with top suppliers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale from 100 monthly to 500+ daily.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
     
     // Trust indicators
-    "trust.topAgents": "Growth Partnership",
-    "trust.compliance": "TCPA & CMS Compliant",
-    "trust.noColdCalls": "Professional Infrastructure",
+    "trust.topAgents": "Growth Focused",
+    "trust.compliance": "Fully Compliant",
+    "trust.noColdCalls": "Professional Support",
     
     // Services
-    "services.title1": "Premium Lead Sources Across",
-    "services.title2": "All Insurance Verticals",
-    "services.subtitle": "Access our curated network of high-volume suppliers across Medicare, ACA, Final Expense, Auto Insurance, and Life Insurance with professional VA support for scaling operations.",
+    "services.title1": "Get Leads for",
+    "services.title2": "Every Insurance Type",
+    "services.subtitle": "We work with the best suppliers. You get better prices, more options, and consistent daily delivery across all major insurance types.",
     
     "service.aca.title": "ACA Health Insurance",
-    "service.aca.description": "Connect with premium ACA suppliers offering competitive pricing and reliable daily transfer volumes. Access multiple backup vendors for consistent lead flow during peak seasons.",
+    "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
     
     "service.medicare.title": "Medicare Advantage & Supplements",
-    "service.medicare.description": "Tap into our network of Medicare specialists providing aged leads and live transfers. Better pricing than direct relationships with built-in redundancy across vendors.",
+    "service.medicare.description": "Quality Medicare leads from specialists. Aged leads and live transfers with better pricing than direct relationships.",
     
     "service.finalExpense.title": "Final Expense Life Insurance",
-    "service.finalExpense.description": "Access high-converting final expense leads from multiple premium suppliers. Consistent daily volumes with transparent pricing and month-to-month flexibility.",
+    "service.finalExpense.description": "High-converting final expense leads from top suppliers. Consistent daily volume with transparent pricing and no long-term contracts.",
     
     "service.auto.title": "Auto Insurance",
-    "service.auto.description": "Connect with our auto insurance lead network offering competitive rates and reliable daily delivery. Multiple vendor options ensure consistent lead flow for your business.",
+    "service.auto.description": "Competitive auto insurance leads with reliable daily delivery. Multiple vendor options keep your pipeline full.",
     
     "service.life.title": "Life Insurance",
-    "service.life.description": "Premium life insurance leads from our curated supplier network. Better economics than going direct with the reliability of multiple vendor relationships.",
+    "service.life.description": "Premium life insurance leads from proven suppliers. Better pricing and more reliability than going direct.",
     
     "service.va.title": "Professional VA Support",
-    "service.va.description": "Scale your operations with professional virtual assistance for CRM management, appointment setting, follow-ups, and administrative tasks. Focus on closing while we handle the infrastructure.",
+    "service.va.description": "Professional VAs handle your CRM, appointments, and follow-ups. You focus on closing deals while we handle the rest.",
     
     "common.learnMore": "Learn More",
     
     // Why Choose Us
     "about.title1": "Why Choose",
     "about.title2": "Prime Enroll",
-    "about.description1": "Access to multiple premium suppliers means reliable growth, backup options, and consistent volumes. Our network relationships provide the infrastructure and reliability needed to scale your business systematically.",
-    "about.description2": "Professional growth partnership with month-to-month flexibility, TCPA/CMS compliance, and dedicated scaling support. Confidential approach designed for serious agents ready to grow their operations.",
+    "about.description1": "Multiple suppliers mean you never run out of leads. Better pricing, backup options, and consistent daily volume.",
+    "about.description2": "Month-to-month flexibility. TCPA/CMS compliant. Dedicated support to help you scale. No long-term contracts.",
     "about.clientsServed": "Agent Partners",
     "about.experience": "Years Experience", 
-    "about.clarity.title": "Multi-Vendor Advantage",
-    "about.clarity.description": "Never depend on a single supplier. Our network provides backup options and consistent lead flow across all verticals.",
-    "about.support.title": "Professional Growth Infrastructure",
-    "about.support.description": "Month-to-month flexibility with dedicated scaling support and professional infrastructure. Growth partnership designed to help you reach enterprise-level volumes without long-term commitments.",
+    "about.clarity.title": "Multiple Suppliers",
+    "about.clarity.description": "Never depend on one supplier. Multiple options mean consistent leads across all insurance types.",
+    "about.support.title": "No Contracts",
+    "about.support.description": "Month-to-month terms with dedicated support. Scale to enterprise volume without long-term commitments.",
     
     // Growth Partnership
     "growth.title1": "Scale from 100 Monthly to",
-    "growth.title2": "500+ Daily Transfers",
-    "growth.subtitle": "Our growth partnership approach helps agents systematically scale their operations with professional infrastructure and multi-vendor reliability.",
-    "growth.step1.title": "Starting Point: 100+ Monthly",
-    "growth.step1.description": "Solo agents converting 100+ monthly ready for consistent daily lead flow with professional support infrastructure.",
-    "growth.step2.title": "Growth Phase: 5-50 Daily",
-    "growth.step2.description": "Systematic scaling with VA support, CRM optimization, and multi-vendor access for reliable daily volumes.",
-    "growth.step3.title": "Scale Target: 500+ Daily",
-    "growth.step3.description": "Enterprise-level volumes with full infrastructure support, compliance management, and dedicated account management.",
+    "growth.title2": "500+ Daily Leads",
+    "growth.subtitle": "Start where you are. Scale systematically. We provide the leads, support, and infrastructure to grow fast.",
+    "growth.step1.title": "You're Converting 100+ Monthly",
+    "growth.step1.description": "Ready for consistent daily leads with professional support.",
+    "growth.step2.title": "Scale to 5-50 Daily",
+    "growth.step2.description": "Add VA support, optimize your CRM, and access multiple suppliers for reliable daily volume.",
+    "growth.step3.title": "Reach 500+ Daily",
+    "growth.step3.description": "Enterprise-level volume with full support, compliance management, and dedicated account management.",
     
     // Qualification Requirements  
-    "qualification.title": "Professional Consultation Requirements",
-    "qualification.subtitle": "We partner with serious agents ready for consistent daily lead volumes. Our 5 daily minimum ensures mutual success and professional operations.",
+    "qualification.title": "Are You Ready?",
+    "qualification.subtitle": "We work with serious agents ready for daily leads. 5 daily minimum ensures we're both successful.",
     "qualification.requirement1": "5 Daily Transfer Minimum",
     "qualification.requirement2": "Active Insurance License",
     "qualification.requirement3": "Professional CRM System",
     "qualification.requirement4": "Proven Conversion History",
     "qualification.consultation": "Free Professional Assessment",
-    "qualification.consultationDesc": "We'll assess your current operations, conversion rates, and growth potential to determine if our network is the right fit for scaling your business.",
+    "qualification.consultationDesc": "We'll look at your current operations, conversion rates, and growth potential to see if we're a good fit.",
     
     // Features
-    "features.title1": "A System That",
-    "features.title2": "Delivers",
-    "features.title3": "Not Just",
+    "features.title1": "Real Results",
+    "features.title2": "Not Just",
+    "features.title3": "Empty",
     "features.title4": "Promises",
-    "features.subtitle": "We built Prime Enroll to solve real problems ACA agents face — unreliable leads, poor ROI, and lack of control. Our data-backed strategy + human-first execution ensures every lead counts.",
+    "features.subtitle": "We solve real problems: unreliable leads, poor ROI, and lack of control. Better leads, better prices, better support.",
     
-    "feature.compliance.title": "100% CMS Compliant",
-    "feature.compliance.description": "Our campaigns and systems follow all CMS marketing guidelines, so you're always safe, compliant, and secure.",
+    "feature.compliance.title": "Fully Compliant",
+    "feature.compliance.description": "All campaigns follow CMS guidelines. You're always safe and compliant.",
     
-    "feature.agents.title": "Built for Busy Agents",
-    "feature.agents.description": "No tech stress. No fluff. We set everything up from ad creatives to lead delivery so you can focus on closing enrollments.",
+    "feature.agents.title": "Easy Setup",
+    "feature.agents.description": "We handle the setup. You focus on closing deals. No tech stress.",
     
-    "feature.performance.title": "Proven Performance",
-    "feature.performance.description": "Data-backed strategies with real-time tracking, CRM integration, and performance analytics that actually matter.",
+    "feature.performance.title": "Real Tracking",
+    "feature.performance.description": "Real-time tracking, CRM integration, and analytics that actually matter.",
     
     // Testimonials
     "testimonials.title": "Client Feedback &",
@@ -109,8 +109,8 @@ const translations: Translations = {
     "testimonials.subtitle": "Showcase what clients say about our products and services. Read authentic feedback and reviews from satisfied customers.",
     
     // CTA
-    "cta.title": "Experience the Prime Enroll Edge",
-    "cta.subtitle": "Maximize your enrollments with Prime Enroll where compliance, automation, and real-time lead delivery fuel your growth.",
+    "cta.title": "Ready to Scale?",
+    "cta.subtitle": "Get better leads, better prices, and the support you need to scale fast.",
     "cta.feature1": "Scale your enrollments faster",
     "cta.feature2": "Built-in CMS-compliance",
     "cta.feature3": "No wasted ad spend",
