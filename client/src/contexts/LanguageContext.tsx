@@ -67,8 +67,8 @@ const translations: Translations = {
     "about.support.description": "From 100 monthly to 500+ daily transfers. We provide the infrastructure and support to scale without bottlenecks.",
     
     // Growth Partnership
-    "growth.title1": "Scale from 100 Monthly to",
-    "growth.title2": "500+ Daily Transfers",
+    "growth.title1": "Scale",
+    "growth.title2": "from 100 Monthly to 500+ Daily Transfers",
     "growth.subtitle": "Start where you are. Scale systematically. We provide the high-intent transfers, support, and infrastructure to grow fast.",
     "growth.step1.title": "You're Converting 100+ Monthly",
     "growth.step1.description": "Ready for consistent daily leads with professional support.",
