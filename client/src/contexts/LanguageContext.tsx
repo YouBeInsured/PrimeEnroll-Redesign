@@ -32,7 +32,7 @@ const translations: Translations = {
     // Services
     "services.title1": "Ready-to-Enroll Clients",
     "services.title2": "Across Every Vertical",
-    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across Medicare, ACA, Final Expense, Auto, and Life Insurance.",
+    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to enroll. Multiple suppliers ensure consistent daily volume.",
     
     "service.aca.title": "ACA",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
@@ -57,8 +57,8 @@ const translations: Translations = {
     // Why Choose Us
     "about.title1": "Business Problems",
     "about.title2": "We Solve",
-    "about.description1": "Inconsistent lead flow? Supplier reliability issues? Scaling bottlenecks? We solve the problems that keep you from growing.",
-    "about.description2": "Multiple supplier network, month-to-month flexibility, TCPA/CMS compliance, and dedicated scaling support. No long-term contracts.",
+    "about.description1": "Inconsistent lead flow? Supplier reliability issues? Scaling bottlenecks? We solve growth problems.",
+    "about.description2": "Multiple suppliers, month-to-month terms, full compliance, dedicated support. No contracts.",
     "about.clientsServed": "Agent Partners",
     "about.experience": "Years Experience", 
     "about.clarity.title": "Reliable Pipeline",
@@ -69,7 +69,7 @@ const translations: Translations = {
     // Growth Partnership
     "growth.title1": "Scale",
     "growth.title2": "from 100 Monthly to 500+ Daily Transfers",
-    "growth.subtitle": "Start where you are. Scale systematically. We provide the high-intent transfers, support, and infrastructure to grow fast.",
+    "growth.subtitle": "Scale systematically with high-intent transfers and dedicated support.",
     "growth.step1.title": "You're Converting 100+ Monthly",
     "growth.step1.description": "Ready for consistent daily leads with professional support.",
     "growth.step2.title": "Scale to 5-50 Daily",
@@ -79,20 +79,20 @@ const translations: Translations = {
     
     // Qualification Requirements  
     "qualification.title": "Are You Ready?",
-    "qualification.subtitle": "We work with serious agents ready for daily leads. 5 daily minimum ensures we're both successful.",
+    "qualification.subtitle": "For serious agents ready for daily volume. 5 daily minimum ensures mutual success.",
     "qualification.requirement1": "5 Daily Transfer Minimum",
     "qualification.requirement2": "Active Insurance License",
     "qualification.requirement3": "Professional CRM System",
     "qualification.requirement4": "Proven Conversion History",
     "qualification.consultation": "Free Professional Assessment",
-    "qualification.consultationDesc": "We'll look at your current operations, conversion rates, and growth potential to see if we're a good fit.",
+    "qualification.consultationDesc": "We'll assess your operations, conversion rates, and growth potential for mutual fit.",
     
     // Features
     "features.title1": "Real Results",
     "features.title2": "Not Just",
     "features.title3": "Empty",
     "features.title4": "Promises",
-    "features.subtitle": "We solve real problems: unreliable leads, poor ROI, and lack of control. Better leads, better prices, better support.",
+    "features.subtitle": "We solve real problems: unreliable leads, poor ROI, lack of control. Better transfers, better support.",
     
     "feature.compliance.title": "Fully Compliant",
     "feature.compliance.description": "All campaigns follow CMS guidelines. You're always safe and compliant.",
@@ -110,7 +110,7 @@ const translations: Translations = {
     
     // CTA
     "cta.title": "Ready to Scale?",
-    "cta.subtitle": "Get better leads, better prices, and the support you need to scale fast.",
+    "cta.subtitle": "Better transfers, dedicated support, scale fast.",
     "cta.feature1": "Scale your enrollments faster",
     "cta.feature2": "Built-in CMS-compliance",
     "cta.feature3": "No wasted ad spend",
