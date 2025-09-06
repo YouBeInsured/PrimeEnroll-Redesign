@@ -34,19 +34,19 @@ const translations: Translations = {
     "services.title2": "Across Every Vertical",
     "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across Medicare, ACA, Final Expense, Auto, and Life Insurance.",
     
-    "service.aca.title": "ACA Health Insurance",
+    "service.aca.title": "ACA",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
     
     "service.medicare.title": "Medicare",
     "service.medicare.description": "Quality Medicare leads from specialists. Aged leads and live transfers with better pricing than direct relationships.",
     
-    "service.finalExpense.title": "Final Expense Life Insurance",
+    "service.finalExpense.title": "Final Expense",
     "service.finalExpense.description": "High-converting final expense leads from top suppliers. Consistent daily volume with transparent pricing and no long-term contracts.",
     
-    "service.auto.title": "Auto Insurance",
+    "service.auto.title": "Auto",
     "service.auto.description": "Competitive auto insurance leads with reliable daily delivery. Multiple vendor options keep your pipeline full.",
     
-    "service.life.title": "Life Insurance",
+    "service.life.title": "Life",
     "service.life.description": "Premium life insurance leads from proven suppliers. Better pricing and more reliability than going direct.",
     
     "service.va.title": "Professional VA Support",
