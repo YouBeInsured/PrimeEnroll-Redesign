@@ -54,17 +54,38 @@ const translations: Translations = {
     
     "common.learnMore": "Learn More",
     
-    // About
-    "about.title1": "Our Work",
-    "about.title2": "Principles",
-    "about.description1": "At Prime Enroll, everything we do is rooted in one mission: empowering ACA agents with real results. We don't believe in fluff, outdated lead models, or overpromises.",
-    "about.description2": "We focus on delivering ready-to-enroll ACA customers, built through transparent processes, CMS-aligned practices, and relentless innovation.",
-    "about.clientsServed": "Clients Served",
-    "about.experience": "Years Experience",
-    "about.clarity.title": "Built for Clarity & Performance",
-    "about.clarity.description": "We make ACA marketing clear, honest, and conversion-focused.",
-    "about.support.title": "Success Doesn't Stick to Office Hours",
-    "about.support.description": "Our system works 24/7 with real-time CRM syncing and always-on support.",
+    // Why Choose Us
+    "about.title1": "Why Choose",
+    "about.title2": "Prime Enroll",
+    "about.description1": "Access to multiple premium suppliers means better pricing, backup options, and reliable volumes. Our network relationships provide 20-30% better economics than going direct to vendors.",
+    "about.description2": "Professional infrastructure with month-to-month terms, TCPA/CMS compliance, and dedicated growth support. Confidential partnership approach designed for serious agents ready to scale.",
+    "about.clientsServed": "Agent Partners",
+    "about.experience": "Years Experience", 
+    "about.clarity.title": "Multi-Vendor Advantage",
+    "about.clarity.description": "Never depend on a single supplier. Our network provides backup options and consistent lead flow across all verticals.",
+    "about.support.title": "Better Economics & Flexibility",
+    "about.support.description": "Month-to-month terms with 20-30% pricing advantages over direct vendor relationships. Professional growth partnership without long-term commitments.",
+    
+    // Growth Partnership
+    "growth.title1": "Scale from 100 Monthly to",
+    "growth.title2": "500+ Daily Transfers",
+    "growth.subtitle": "Our growth partnership approach helps agents systematically scale their operations with professional infrastructure and multi-vendor reliability.",
+    "growth.step1.title": "Starting Point: 100+ Monthly",
+    "growth.step1.description": "Solo agents converting 100+ monthly ready for consistent daily lead flow with professional support infrastructure.",
+    "growth.step2.title": "Growth Phase: 5-50 Daily",
+    "growth.step2.description": "Systematic scaling with VA support, CRM optimization, and multi-vendor access for reliable daily volumes.",
+    "growth.step3.title": "Scale Target: 500+ Daily",
+    "growth.step3.description": "Enterprise-level volumes with full infrastructure support, compliance management, and dedicated account management.",
+    
+    // Qualification Requirements  
+    "qualification.title": "Professional Consultation Requirements",
+    "qualification.subtitle": "We partner with serious agents ready for consistent daily lead volumes. Our 5 daily minimum ensures mutual success and professional operations.",
+    "qualification.requirement1": "5 Daily Transfer Minimum",
+    "qualification.requirement2": "Active Insurance License",
+    "qualification.requirement3": "Professional CRM System",
+    "qualification.requirement4": "Proven Conversion History",
+    "qualification.consultation": "Free Professional Assessment",
+    "qualification.consultationDesc": "We'll assess your current lead costs, conversion rates, and growth potential to determine if our network is the right fit for your operations.",
     
     // Features
     "features.title1": "A System That",
@@ -130,34 +151,58 @@ const translations: Translations = {
     "services.title2": "Todas las Verticales de Seguros",
     "services.subtitle": "Accede a nuestra red curada de proveedores de alto volumen en Medicare, ACA, Gastos Finales, Seguro de Auto y Seguro de Vida con soporte profesional de VA para escalar operaciones.",
     
-    "service.aca.title": "ACA Kick Starter",
-    "service.aca.description": "Un sistema DFY (Hecho Para Usted) completo que entrega clientes potenciales ACA exclusivos de embudos de anuncios compatibles con entrega en tiempo real respaldada por una inscripción mínima garantizada.",
+    "service.aca.title": "Seguro de Salud ACA",
+    "service.aca.description": "Conéctese con proveedores premium de ACA que ofrecen precios competitivos y volúmenes diarios de transferencia confiables. Acceso a múltiples proveedores de respaldo para flujo constante de clientes potenciales durante temporadas pico.",
     
-    "service.acaLive.title": "Transferencias en Vivo ACA",
-    "service.acaLive.description": "Lo conectamos en vivo con prospectos ACA preseleccionados que buscan activamente cobertura: sin llamadas frías, sin persecución, solo conversaciones reales con clientes listos para inscribirse.",
+    "service.medicare.title": "Medicare Advantage y Suplementos",
+    "service.medicare.description": "Aproveche nuestra red de especialistas en Medicare que proporcionan clientes potenciales envejecidos y transferencias en vivo. Mejores precios que las relaciones directas con redundancia incorporada en todos los proveedores.",
     
-    "service.medicare.title": "Transferencias en Vivo Medicare",
-    "service.medicare.description": "Generamos llamadas de Medicare y Seguro de Vida de alta calidad, envejecidas a la perfección, adaptadas a su estado de licencia, con información detallada del llamador y horarios de contacto pico.",
+    "service.finalExpense.title": "Seguro de Vida de Gastos Finales",
+    "service.finalExpense.description": "Acceso a clientes potenciales de gastos finales de alta conversión de múltiples proveedores premium. Volúmenes diarios consistentes con precios transparentes y flexibilidad mes a mes.",
     
-    "service.finalExpense.title": "Transferencias en Vivo Gastos Finales",
-    "service.finalExpense.description": "Hable directamente con prospectos interesados mayores de 50 años que buscan activamente planes de gastos finales. Cada transferencia es en tiempo real, compatible con TCPA y exclusiva para usted.",
+    "service.auto.title": "Seguro de Auto",
+    "service.auto.description": "Conéctese con nuestra red de clientes potenciales de seguro de auto ofreciendo tarifas competitivas y entrega diaria confiable. Múltiples opciones de proveedores aseguran flujo constante de clientes potenciales para su negocio.",
     
-    "service.va.title": "Asistencia Virtual para Agentes",
-    "service.va.description": "Su propio equipo de VA capacitado para ayudar con cotizaciones, gestión de CRM, programación de citas, seguimientos y más, para que cierre más con menos esfuerzo.",
+    "service.life.title": "Seguro de Vida",
+    "service.life.description": "Clientes potenciales premium de seguro de vida de nuestra red curada de proveedores. Mejor economía que ir directo con la confiabilidad de múltiples relaciones de proveedores.",
+    
+    "service.va.title": "Soporte Profesional de VA",
+    "service.va.description": "Escale sus operaciones con asistencia virtual profesional para gestión de CRM, programación de citas, seguimientos y tareas administrativas. Enfóquese en cerrar mientras nosotros manejamos la infraestructura.",
     
     "common.learnMore": "Aprende Más",
     
     // About
-    "about.title1": "Nuestros Principios",
-    "about.title2": "de Trabajo",
-    "about.description1": "En Prime Enroll, todo lo que hacemos está arraigado en una misión: empoderar a los agentes ACA con resultados reales. No creemos en relleno, modelos de clientes potenciales obsoletos o promesas excesivas.",
-    "about.description2": "Nos enfocamos en entregar clientes ACA listos para inscribirse, construidos a través de procesos transparentes, prácticas alineadas con CMS e innovación implacable.",
+    "about.title1": "Por Qué Elegir",
+    "about.title2": "Prime Enroll",
+    "about.description1": "Acceso a múltiples proveedores premium significa mejores precios, opciones de respaldo y volúmenes confiables. Nuestras relaciones de red proporcionan 20-30% mejor economía que ir directo a los proveedores.",
+    "about.description2": "Infraestructura profesional con términos mes a mes, cumplimiento TCPA/CMS y soporte de crecimiento dedicado. Enfoque de asociación confidencial diseñado para agentes serios listos para escalar.",
     "about.clientsServed": "Clientes Atendidos",
     "about.experience": "Años de Experiencia",
-    "about.clarity.title": "Construido para Claridad y Rendimiento",
-    "about.clarity.description": "Hacemos que el marketing ACA sea claro, honesto y enfocado en conversiones.",
-    "about.support.title": "El Éxito No Se Limita al Horario de Oficina",
-    "about.support.description": "Nuestro sistema funciona 24/7 con sincronización de CRM en tiempo real y soporte siempre activo.",
+    "about.clarity.title": "Ventaja Multi-Proveedor",
+    "about.clarity.description": "Nunca dependa de un solo proveedor. Nuestra red proporciona opciones de respaldo y flujo constante de clientes potenciales en todas las verticales.",
+    "about.support.title": "Mejor Economía y Flexibilidad",
+    "about.support.description": "Términos mes a mes con ventajas de precios del 20-30% sobre las relaciones directas con proveedores. Asociación profesional de crecimiento sin compromisos a largo plazo.",
+    
+    // Growth Partnership
+    "growth.title1": "Escale de 100 Mensuales a",
+    "growth.title2": "500+ Transferencias Diarias",
+    "growth.subtitle": "Nuestro enfoque de asociación de crecimiento ayuda a los agentes a escalar sistemáticamente sus operaciones con infraestructura profesional y confiabilidad multi-proveedor.",
+    "growth.step1.title": "Punto de Partida: 100+ Mensuales",
+    "growth.step1.description": "Agentes solo convirtiendo 100+ mensuales listos para flujo diario constante de clientes potenciales con infraestructura de soporte profesional.",
+    "growth.step2.title": "Fase de Crecimiento: 5-50 Diarios",
+    "growth.step2.description": "Escalado sistemático con soporte de VA, optimización de CRM y acceso multi-proveedor para volúmenes diarios confiables.",
+    "growth.step3.title": "Objetivo de Escala: 500+ Diarios",
+    "growth.step3.description": "Volúmenes a nivel empresarial con soporte completo de infraestructura, gestión de cumplimiento y gestión de cuentas dedicada.",
+    
+    // Qualification Requirements  
+    "qualification.title": "Requisitos de Consulta Profesional",
+    "qualification.subtitle": "Nos asociamos con agentes serios listos para volúmenes diarios consistentes de clientes potenciales. Nuestro mínimo de 5 diarios asegura el éxito mutuo y operaciones profesionales.",
+    "qualification.requirement1": "Mínimo de 5 Transferencias Diarias",
+    "qualification.requirement2": "Licencia de Seguro Activa",
+    "qualification.requirement3": "Sistema CRM Profesional",
+    "qualification.requirement4": "Historial de Conversión Comprobado",
+    "qualification.consultation": "Evaluación Profesional Gratuita",
+    "qualification.consultationDesc": "Evaluaremos sus costos actuales de clientes potenciales, tasas de conversión y potencial de crecimiento para determinar si nuestra red es la opción correcta para sus operaciones.",
     
     // Features
     "features.title1": "Un Sistema Que",
