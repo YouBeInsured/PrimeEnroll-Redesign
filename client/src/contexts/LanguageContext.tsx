@@ -32,7 +32,7 @@ const translations: Translations = {
     // Services
     "services.title1": "Ready-to-Buy Customers",
     "services.title2": "Across Every Vertical",
-    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across all insurance types.",
+    "services.subtitle": "High-intent live call transfers from pre-qualified prospects ready to purchase. Multiple supplier network ensures consistent daily volume across Medicare, ACA, Final Expense, Auto, and Life Insurance.",
     
     "service.aca.title": "ACA Health Insurance",
     "service.aca.description": "Better prices than going direct. Multiple suppliers mean consistent daily leads and backup options during busy seasons.",
