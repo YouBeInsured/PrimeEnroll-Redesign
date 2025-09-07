@@ -38,8 +38,8 @@ export default function Header() {
       <header
         className={`fixed top-2 left-2 right-2 lg:top-4 lg:left-4 lg:right-4 z-50 transition-all duration-500 rounded-3xl ${
           isScrolled
-            ? "bg-white/50 dark:bg-gray-900/50 backdrop-blur-xl border border-white/20 dark:border-gray-700/20 shadow-xl shadow-black/10 dark:shadow-black/30"
-            : "bg-white/40 dark:bg-gray-900/40 backdrop-blur-2xl border border-white/10 dark:border-gray-700/10 shadow-lg shadow-black/5 dark:shadow-black/20"
+            ? "bg-white/70 dark:bg-gray-900/70 backdrop-blur-xl border border-white/30 dark:border-gray-700/30 shadow-xl shadow-black/10 dark:shadow-black/30"
+            : "bg-white/60 dark:bg-gray-900/60 backdrop-blur-2xl border border-white/20 dark:border-gray-700/20 shadow-lg shadow-black/5 dark:shadow-black/20"
         }`}
         style={{
           backdropFilter: isScrolled ? 'blur(24px) saturate(180%)' : 'blur(28px) saturate(200%)',
@@ -56,19 +56,19 @@ export default function Header() {
             <div className="hidden lg:flex items-center space-x-8">
               <button
                 onClick={() => scrollToSection("services")}
-                className="text-gray-600 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-400 transition-colors"
+                className="text-gray-700 dark:text-gray-200 hover:text-primary-500 dark:hover:text-primary-400 transition-colors font-medium"
               >
                 {t("nav.services")}
               </button>
               <button
                 onClick={() => scrollToSection("testimonials")}
-                className="text-gray-600 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-400 transition-colors"
+                className="text-gray-700 dark:text-gray-200 hover:text-primary-500 dark:hover:text-primary-400 transition-colors font-medium"
               >
                 {t("nav.testimonials")}
               </button>
               <button
                 onClick={() => scrollToSection("about")}
-                className="text-gray-600 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-400 transition-colors"
+                className="text-gray-700 dark:text-gray-200 hover:text-primary-500 dark:hover:text-primary-400 transition-colors font-medium"
               >
                 {t("nav.about")}
               </button>
