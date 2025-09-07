@@ -618,7 +618,7 @@ export default function Landing() {
       <section className="py-16 lg:py-24 bg-gradient-to-br from-blue-600 via-blue-500 to-purple-600">
         <div className="container mx-auto px-4 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
-            <div className="scroll-animate animate-fade-in">
+            <div>
               <h2 className="text-3xl lg:text-5xl font-bold mb-6">
                 {t("cta.title")}
               </h2>
