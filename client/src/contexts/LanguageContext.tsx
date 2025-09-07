@@ -55,9 +55,9 @@ const translations: Translations = {
     "common.learnMore": "Learn More",
     
     // Why Choose Us
-    "about.title1": "Business Problems",
+    "about.title1": "Business Challenges",
     "about.title2": "We Solve",
-    "about.description1": "Inconsistent lead flow? Supplier reliability issues? Scaling bottlenecks? We solve growth problems.",
+    "about.description1": "Inconsistent lead flow? Supplier reliability issues? Scaling bottlenecks? We solve growth challenges.",
     "about.description2": "Multiple suppliers, month-to-month terms, full compliance, dedicated support. No contracts.",
     "about.clientsServed": "Agent Partners",
     "about.experience": "Years Experience", 
@@ -92,7 +92,7 @@ const translations: Translations = {
     "features.title2": "Not Just",
     "features.title3": "Empty",
     "features.title4": "Promises",
-    "features.subtitle": "We solve real problems: unreliable leads, poor ROI, lack of control. Better transfers, better support.",
+    "features.subtitle": "We solve real challenges: unreliable leads, poor ROI, lack of control. Better transfers, better support.",
     
     "feature.compliance.title": "Fully Compliant",
     "feature.compliance.description": "All campaigns follow CMS guidelines. You're always safe and compliant.",
@@ -209,7 +209,7 @@ const translations: Translations = {
     "features.title2": "Entrega",
     "features.title3": "No Solo",
     "features.title4": "Promesas",
-    "features.subtitle": "Construimos Prime Enroll para resolver problemas reales que enfrentan los agentes ACA: clientes potenciales poco confiables, ROI deficiente y falta de control. Nuestra estrategia respaldada por datos + ejecución centrada en humanos asegura que cada cliente potencial cuente.",
+    "features.subtitle": "Construimos Prime Enroll para resolver desafíos reales que enfrentan los agentes ACA: clientes potenciales poco confiables, ROI deficiente y falta de control. Nuestra estrategia respaldada por datos + ejecución centrada en humanos asegura que cada cliente potencial cuente.",
     
     "feature.compliance.title": "100% Compatible con CMS",
     "feature.compliance.description": "Nuestras campañas y sistemas siguen todas las pautas de marketing de CMS, por lo que siempre está seguro, conforme y protegido.",
