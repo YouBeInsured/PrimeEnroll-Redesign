@@ -617,7 +617,7 @@ export default function Landing() {
       {/* CTA Section */}
       <section className="py-16 lg:py-24 bg-gradient-to-br from-blue-600 via-blue-500 to-purple-600">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center text-white [&>div>a]:text-black">
+          <div className="max-w-4xl mx-auto text-center text-white">
             <div>
               <h2 className="text-3xl lg:text-5xl font-bold mb-6">
                 {t("cta.title")}
@@ -650,13 +650,15 @@ export default function Landing() {
                   alignItems: 'center',
                   padding: '16px 32px',
                   backgroundColor: '#ffffff',
-                  color: '#000000',
+                  color: '#000000 !important',
                   fontWeight: 'bold',
                   borderRadius: '12px',
                   textDecoration: 'none',
                   border: '2px solid #000000',
-                  opacity: '1',
-                  visibility: 'visible'
+                  opacity: '1 !important',
+                  visibility: 'visible !important',
+                  position: 'relative',
+                  zIndex: '9999'
                 }}
               >
                 👁️ VIEW OUR SYSTEM IN ACTION
