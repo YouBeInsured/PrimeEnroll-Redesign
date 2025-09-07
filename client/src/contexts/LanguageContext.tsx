@@ -19,7 +19,7 @@ const translations: Translations = {
     // Hero
     "hero.title1": "We Screen.",
     "hero.title2": "You Close.",
-    "hero.subtitle": "High-Intent, Pre-Qualified Live Call Transfers across Medicare, ACA, Final Expense, Auto, and Life Insurance. Scale your business from 100 monthly to 500+ daily transfers with serious prospects who call YOU.",
+    "hero.subtitle": "Scale your business from 100 monthly to 500+ daily transfers with serious prospects who call YOU.",
     "hero.getStarted": "Free Consultation",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
