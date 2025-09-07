@@ -48,7 +48,21 @@ export default function Header() {
       >
         <div className="container mx-auto px-6 lg:px-10">
           <nav className="flex items-center justify-between h-16 lg:h-20">
-            <Link href="/">
+            {/* Mobile Menu Button - Moved to Left */}
+            <Button
+              variant="ghost"
+              size="sm"
+              className="lg:hidden p-2"
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            >
+              {isMobileMenuOpen ? (
+                <X className="h-12 w-12" />
+              ) : (
+                <Menu className="h-12 w-12" />
+              )}
+            </Button>
+
+            <Link href="/" className="lg:flex-1">
               <Logo />
             </Link>
 
@@ -124,19 +138,6 @@ export default function Header() {
               )}
             </div>
 
-            {/* Mobile Menu Button */}
-            <Button
-              variant="ghost"
-              size="sm"
-              className="lg:hidden p-2"
-              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            >
-              {isMobileMenuOpen ? (
-                <X className="h-6 w-6" />
-              ) : (
-                <Menu className="h-6 w-6" />
-              )}
-            </Button>
           </nav>
 
           {/* Mobile Menu */}
