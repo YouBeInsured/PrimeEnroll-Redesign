@@ -62,7 +62,7 @@ export default function Landing() {
               </div>
 
               <h1 className="text-6xl lg:text-8xl xl:text-9xl font-bold mb-6 leading-tight">
-                <span className="bg-gradient-to-r from-blue-800 to-blue-600 bg-clip-text text-transparent mr-3 tracking-wide">{t("hero.title1")}</span>
+                <span className="bg-gradient-to-r from-blue-800 to-blue-600 dark:from-blue-400 dark:to-blue-300 bg-clip-text text-transparent mr-3 tracking-wide">{t("hero.title1")}</span>
                 <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent font-black italic tracking-tight">
                   {t("hero.title2")}
                 </span>
