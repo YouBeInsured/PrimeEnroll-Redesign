@@ -649,19 +649,29 @@ export default function Landing() {
                   display: 'inline-flex',
                   alignItems: 'center',
                   padding: '16px 32px',
-                  backgroundColor: '#ffffff',
-                  color: '#000000 !important',
+                  background: 'linear-gradient(135deg, #4F46E5 0%, #06B6D4 100%)',
+                  color: '#ffffff !important',
                   fontWeight: 'bold',
                   borderRadius: '12px',
                   textDecoration: 'none',
-                  border: '2px solid #000000',
+                  border: 'none',
                   opacity: '1 !important',
                   visibility: 'visible !important',
                   position: 'relative',
-                  zIndex: '9999'
+                  zIndex: '9999',
+                  boxShadow: '0 4px 14px 0 rgba(79, 70, 229, 0.25)',
+                  transition: 'transform 0.2s ease, box-shadow 0.2s ease'
+                }}
+                onMouseOver={(e) => {
+                  e.target.style.transform = 'translateY(-2px)';
+                  e.target.style.boxShadow = '0 6px 20px 0 rgba(79, 70, 229, 0.35)';
+                }}
+                onMouseOut={(e) => {
+                  e.target.style.transform = 'translateY(0px)';
+                  e.target.style.boxShadow = '0 4px 14px 0 rgba(79, 70, 229, 0.25)';
                 }}
               >
-                👁️ VIEW OUR SYSTEM IN ACTION
+                ⚡ Book a Call
               </a>
             </div>
           </div>
