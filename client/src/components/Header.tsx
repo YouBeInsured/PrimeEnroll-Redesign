@@ -51,7 +51,7 @@ export default function Header() {
             {/* Mobile Menu Button - Moved to Left */}
             <Button
               variant="ghost"
-              className="lg:hidden p-6 h-auto w-auto -ml-4"
+              className="lg:hidden p-6 h-auto w-auto -ml-8"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             >
               {isMobileMenuOpen ? (
