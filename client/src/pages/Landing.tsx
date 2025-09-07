@@ -432,7 +432,7 @@ export default function Landing() {
             <div className="text-center mb-16 scroll-animate">
               <h2 className="text-3xl lg:text-5xl font-bold mb-6">
                 <span className="text-gray-900 dark:text-white">{t("features.title1")}</span><br />
-                <span className="bg-gradient-to-r from-primary-500 to-purple-500 bg-clip-text text-transparent">
+                <span className="text-gray-700 dark:text-gray-400 font-normal">
                   {t("features.title2")}
                 </span>
                 <span className="text-gray-900 dark:text-white"> {t("features.title3")}</span><br />
