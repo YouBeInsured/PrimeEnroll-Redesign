@@ -72,24 +72,15 @@ export default function Landing() {
                 {t("hero.subtitle")}
               </p>
 
-              <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
+              <div className="flex justify-center items-center mb-16">
                 <a 
                   href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 text-white font-semibold rounded-xl hover:from-blue-700 hover:via-blue-500 hover:to-cyan-500 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
+                  className="inline-flex items-center px-10 py-5 bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 text-white font-semibold rounded-xl hover:from-blue-700 hover:via-blue-500 hover:to-cyan-500 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl text-lg"
                 >
-                  <Zap className="w-5 h-5 mr-2 text-white" />
+                  <Zap className="w-6 h-6 mr-3 text-white" />
                   {t("hero.getStarted")}
-                </a>
-                <a 
-                  href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center px-8 py-4 border-2 border-blue-600 text-blue-600 bg-white dark:bg-gray-800 font-semibold rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg"
-                >
-                  <Eye className="w-5 h-5 mr-2" />
-                  {t("hero.viewDemo")}
                 </a>
               </div>
 
