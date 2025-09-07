@@ -63,7 +63,7 @@ export default function Landing() {
 
               <h1 className="text-4xl lg:text-6xl xl:text-7xl font-bold mb-6 leading-tight">
                 <span className="block text-gray-900 dark:text-white">{t("hero.title1")}</span>
-                <span className="block bg-gradient-to-r from-primary-500 to-purple-500 bg-clip-text text-transparent">
+                <span className="block bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent font-extrabold">
                   {t("hero.title2")}
                 </span>
               </h1>
@@ -86,7 +86,7 @@ export default function Landing() {
                   href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center px-8 py-4 border-2 border-primary-500 text-primary-500 font-semibold rounded-xl hover:bg-primary-500 hover:text-white transition-all duration-300"
+                  className="inline-flex items-center px-8 py-4 border-2 border-blue-600 text-blue-600 bg-white dark:bg-gray-800 font-semibold rounded-xl hover:bg-blue-600 hover:text-white transition-all duration-300 shadow-lg"
                 >
                   <Eye className="w-5 h-5 mr-2" />
                   {t("hero.viewDemo")}
