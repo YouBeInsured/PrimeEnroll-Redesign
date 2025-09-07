@@ -36,11 +36,15 @@ export default function Header() {
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
           isScrolled
-            ? "bg-white/90 dark:bg-gray-900/90 backdrop-blur-md border-b border-gray-200/20 dark:border-gray-700/20"
-            : "bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-200/20 dark:border-gray-700/20"
+            ? "bg-white/70 dark:bg-gray-900/70 backdrop-blur-xl border-b border-white/30 dark:border-gray-700/30 shadow-lg shadow-black/5 dark:shadow-black/20"
+            : "bg-white/60 dark:bg-gray-900/60 backdrop-blur-2xl border-b border-white/20 dark:border-gray-700/20"
         }`}
+        style={{
+          backdropFilter: isScrolled ? 'blur(20px) saturate(180%)' : 'blur(24px) saturate(200%)',
+          WebkitBackdropFilter: isScrolled ? 'blur(20px) saturate(180%)' : 'blur(24px) saturate(200%)'
+        }}
       >
         <div className="container mx-auto px-4 lg:px-8">
           <nav className="flex items-center justify-between h-16 lg:h-20">
