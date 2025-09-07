@@ -484,40 +484,6 @@ export default function Landing() {
             </div>
 
             {/* Performance Stats */}
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 mt-16 text-center">
-              <div>
-                <div className="text-4xl font-bold text-primary-500 mb-2">
-                  {t("stats.leadsGenerated")}
-                </div>
-                <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                  {t("stats.labels.leadsGenerated")}
-                </div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-green-500 mb-2">
-                  {t("stats.happyClients")}
-                </div>
-                <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                  {t("stats.labels.happyClients")}
-                </div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-purple-500 mb-2">
-                  {t("stats.experience")}
-                </div>
-                <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                  {t("stats.labels.experience")}
-                </div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-orange-500 mb-2">
-                  {t("stats.rating")}
-                </div>
-                <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                  {t("stats.labels.rating")}
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
