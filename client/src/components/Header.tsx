@@ -36,17 +36,17 @@ export default function Header() {
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+        className={`fixed top-2 left-2 right-2 lg:top-4 lg:left-4 lg:right-4 z-50 transition-all duration-500 rounded-2xl lg:rounded-3xl ${
           isScrolled
-            ? "bg-white/70 dark:bg-gray-900/70 backdrop-blur-xl border-b border-white/30 dark:border-gray-700/30 shadow-lg shadow-black/5 dark:shadow-black/20"
-            : "bg-white/60 dark:bg-gray-900/60 backdrop-blur-2xl border-b border-white/20 dark:border-gray-700/20"
+            ? "bg-white/50 dark:bg-gray-900/50 backdrop-blur-xl border border-white/20 dark:border-gray-700/20 shadow-xl shadow-black/10 dark:shadow-black/30"
+            : "bg-white/40 dark:bg-gray-900/40 backdrop-blur-2xl border border-white/10 dark:border-gray-700/10 shadow-lg shadow-black/5 dark:shadow-black/20"
         }`}
         style={{
-          backdropFilter: isScrolled ? 'blur(20px) saturate(180%)' : 'blur(24px) saturate(200%)',
-          WebkitBackdropFilter: isScrolled ? 'blur(20px) saturate(180%)' : 'blur(24px) saturate(200%)'
+          backdropFilter: isScrolled ? 'blur(24px) saturate(180%)' : 'blur(28px) saturate(200%)',
+          WebkitBackdropFilter: isScrolled ? 'blur(24px) saturate(180%)' : 'blur(28px) saturate(200%)'
         }}
       >
-        <div className="container mx-auto px-4 lg:px-8">
+        <div className="container mx-auto px-6 lg:px-10">
           <nav className="flex items-center justify-between h-16 lg:h-20">
             <Link href="/">
               <Logo />
