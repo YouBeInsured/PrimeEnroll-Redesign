@@ -244,20 +244,6 @@ export default function Landing() {
                   {t("about.description2")}
                 </p>
 
-                <div className="grid grid-cols-2 gap-8 mb-8">
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-primary-500 mb-2">700+</div>
-                    <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                      {t("about.clientsServed")}
-                    </div>
-                  </div>
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-purple-500 mb-2">5+</div>
-                    <div className="text-sm text-gray-600 dark:text-gray-300 font-medium">
-                      {t("about.experience")}
-                    </div>
-                  </div>
-                </div>
 
                 <div className="space-y-4">
                   <div className="flex items-start space-x-3">
