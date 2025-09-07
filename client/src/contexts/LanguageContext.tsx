@@ -104,8 +104,7 @@ const translations: Translations = {
     "feature.performance.description": "Real-time tracking, CRM integration, and analytics that actually matter.",
     
     // Testimonials
-    "testimonials.title": "Client Feedback &",
-    "testimonials.title2": "Reviews",
+    "testimonials.title": "Client Feedback",
     "testimonials.subtitle": "Showcase what clients say about our products and services. Read authentic feedback and reviews from satisfied customers.",
     
     // CTA
@@ -221,8 +220,7 @@ const translations: Translations = {
     "feature.performance.description": "Estrategias respaldadas por datos con seguimiento en tiempo real, integración de CRM y análisis de rendimiento que realmente importan.",
     
     // Testimonials
-    "testimonials.title": "Comentarios y",
-    "testimonials.title2": "Reseñas de Clientes",
+    "testimonials.title": "Comentarios de Clientes",
     "testimonials.subtitle": "Muestre lo que los clientes dicen sobre nuestros productos y servicios. Lea comentarios auténticos y reseñas de clientes satisfechos.",
     
     // CTA

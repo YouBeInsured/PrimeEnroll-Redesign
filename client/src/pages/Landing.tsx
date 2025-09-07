@@ -494,7 +494,7 @@ export default function Landing() {
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-16 scroll-animate">
               <h2 className="text-3xl lg:text-5xl font-bold mb-6 text-gray-900 dark:text-white">
-                {t("testimonials.title")} <span className="bg-gradient-to-r from-primary-500 to-purple-500 bg-clip-text text-transparent">{t("testimonials.title2")}</span>
+                {t("testimonials.title")}
               </h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
                 {t("testimonials.subtitle")}
