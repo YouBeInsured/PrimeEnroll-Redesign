@@ -645,7 +645,7 @@ export default function Landing() {
                 href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-8 py-4 bg-white text-gray-900 font-bold rounded-xl hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
+                className="inline-flex items-center px-8 py-4 bg-white dark:bg-white text-gray-900 dark:text-gray-900 font-bold rounded-xl hover:bg-gray-100 dark:hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-200"
               >
                 <Eye className="w-5 h-5 mr-2" />
                 {t("cta.button")}
