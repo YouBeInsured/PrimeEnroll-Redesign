@@ -646,10 +646,10 @@ export default function Landing() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-8 py-4 bg-white font-bold rounded-xl hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-300"
-                style={{ color: '#000000 !important' }}
+                style={{ color: '#000000 !important', fill: '#000000 !important' }}
               >
-                <Eye className="w-5 h-5 mr-2" />
-                {t("cta.button")}
+                <Eye className="w-5 h-5 mr-2" style={{ color: '#000000 !important' }} />
+                <span style={{ color: '#000000 !important' }}>{t("cta.button")}</span>
               </a>
             </div>
           </div>
