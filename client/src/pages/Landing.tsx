@@ -614,44 +614,6 @@ export default function Landing() {
         </div>
       </section>
 
-      {/* CTA Section */}
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-blue-600 via-blue-500 to-purple-600">
-        <div className="container mx-auto px-4 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl lg:text-5xl font-bold mb-6 text-white">
-              {t("cta.title")}
-            </h2>
-            <p className="text-xl lg:text-2xl mb-8 text-white opacity-90 leading-relaxed">
-              {t("cta.subtitle")}
-            </p>
-
-            <div className="grid md:grid-cols-3 gap-6 mb-12">
-              <div className="flex items-center justify-center space-x-3 text-white">
-                <CheckCircle className="w-6 h-6 text-green-300" />
-                <span className="font-semibold">{t("cta.feature1")}</span>
-              </div>
-              <div className="flex items-center justify-center space-x-3 text-white">
-                <CheckCircle className="w-6 h-6 text-green-300" />
-                <span className="font-semibold">{t("cta.feature2")}</span>
-              </div>
-              <div className="flex items-center justify-center space-x-3 text-white">
-                <CheckCircle className="w-6 h-6 text-green-300" />
-                <span className="font-semibold">{t("cta.feature3")}</span>
-              </div>
-            </div>
-
-            <a 
-              href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-indigo-600 to-cyan-400 text-white font-bold rounded-xl hover:from-indigo-700 hover:to-cyan-500 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
-            >
-              <span className="mr-2">⚡</span>
-              Book a Call
-            </a>
-          </div>
-        </div>
-      </section>
 
       {/* Footer */}
       <footer className="bg-gray-900 dark:bg-gray-950 text-white py-12">
