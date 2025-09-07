@@ -20,7 +20,7 @@ const translations: Translations = {
     "hero.title1": "We Screen.",
     "hero.title2": "You Close.",
     "hero.subtitle": "High-Intent Live Transfers across Medicare, ACA, Final Expense, Auto & Life. 5 to 500+ daily transfers with prospects ready to enroll.",
-    "hero.getStarted": "Free Consultation",
+    "hero.getStarted": "Book a Call",
     "hero.viewDemo": "See Our Network",
     "hero.trustedBy": "Trusted by Insurance Agents Converting 100+ Monthly",
     
