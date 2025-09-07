@@ -47,15 +47,15 @@ export default function Landing() {
             <div className="text-center animate-fade-in">
               {/* Trust Indicators */}
               <div className="flex flex-wrap justify-center items-center gap-4 mb-8 text-sm font-medium">
-                <span className="inline-flex items-center px-3 py-1 rounded-full bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-400">
+                <span className="inline-flex items-center px-3 py-1 rounded-full bg-green-500 dark:bg-green-600 text-white">
                   <CheckCircle className="w-4 h-4 mr-1" />
                   {t("trust.topAgents")}
                 </span>
-                <span className="inline-flex items-center px-3 py-1 rounded-full bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-400">
+                <span className="inline-flex items-center px-3 py-1 rounded-full bg-blue-500 dark:bg-blue-600 text-white">
                   <Shield className="w-4 h-4 mr-1" />
                   {t("trust.compliance")}
                 </span>
-                <span className="inline-flex items-center px-3 py-1 rounded-full bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-400">
+                <span className="inline-flex items-center px-3 py-1 rounded-full bg-purple-500 dark:bg-purple-600 text-white">
                   <Phone className="w-4 h-4 mr-1" />
                   {t("trust.noColdCalls")}
                 </span>
