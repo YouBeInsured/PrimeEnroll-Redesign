@@ -617,7 +617,7 @@ export default function Landing() {
       {/* CTA Section */}
       <section className="py-16 lg:py-24 bg-gradient-to-br from-blue-600 via-blue-500 to-purple-600">
         <div className="container mx-auto px-4 lg:px-8">
-          <div className="max-w-4xl mx-auto text-center text-white">
+          <div className="max-w-4xl mx-auto text-center text-white [&>div>a]:text-black">
             <div>
               <h2 className="text-3xl lg:text-5xl font-bold mb-6">
                 {t("cta.title")}
@@ -645,11 +645,10 @@ export default function Landing() {
                 href="https://link.primeenroll.com/widget/booking/uVquxBRgaUR0XuEtO6h2"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center px-8 py-4 bg-white font-bold rounded-xl hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-300"
-                style={{ color: '#000000 !important', fill: '#000000 !important' }}
+                className="inline-flex items-center px-8 py-4 bg-white text-gray-900 font-bold rounded-xl hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-300"
               >
-                <Eye className="w-5 h-5 mr-2" style={{ color: '#000000 !important' }} />
-                <span style={{ color: '#000000 !important' }}>{t("cta.button")}</span>
+                <Eye className="w-5 h-5 mr-2" />
+                {t("cta.button")}
               </a>
             </div>
           </div>
