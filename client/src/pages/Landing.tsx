@@ -432,7 +432,7 @@ export default function Landing() {
             <div className="text-center mb-16 scroll-animate">
               <h2 className="text-3xl lg:text-5xl font-bold mb-6">
                 <span className="text-gray-900 dark:text-white">{t("features.title1")}</span><br />
-                <span className="text-gray-700 dark:text-gray-400 font-normal">
+                <span className="text-gray-800 dark:text-gray-300 font-normal">
                   {t("features.title2")}
                 </span>
                 <span className="text-gray-900 dark:text-white"> {t("features.title3")}</span><br />
@@ -615,7 +615,7 @@ export default function Landing() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 lg:py-24 bg-gradient-to-br from-primary-500 via-purple-500 to-purple-600">
+      <section className="py-16 lg:py-24 bg-gradient-to-br from-blue-600 via-blue-500 to-purple-600">
         <div className="container mx-auto px-4 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
             <div className="scroll-animate animate-fade-in">
