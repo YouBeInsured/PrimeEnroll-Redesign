@@ -121,7 +121,8 @@ export default function Landing() {
             <div className="grid lg:grid-cols-3 gap-8">
               {/* ACA Health Insurance */}
               <Card className="group p-8 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
-                <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-blue-500 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300">
+                <div className="w-16 h-16 bg-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110
+                  transition-transform duration-300 shadow-lg">
                   <Shield className="w-8 h-8 text-white" />
                 </div>
                 <h3 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">
